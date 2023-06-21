@@ -37,6 +37,9 @@
   float: left;
   overflow: hidden;
 }
+#dropBtn {
+  cursor: pointer;
+}
 
 #dropdown #dropBtn {
   font-size: 16px;
