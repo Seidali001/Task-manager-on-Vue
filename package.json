@@ -7,6 +7,7 @@
     "preview": "vite preview --port 4173"
   },
   "dependencies": {
+    "gh-pages": "^5.0.0",
     "vue": "^2.7.7",
     "vue-router": "^3.6.5",
     "vuex": "^3.6.2"
