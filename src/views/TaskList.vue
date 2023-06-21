@@ -30,6 +30,7 @@
 .task {
   display: flex;
   justify-content: flex-start;
+  cursor: pointer;
 }
 </style>
 
